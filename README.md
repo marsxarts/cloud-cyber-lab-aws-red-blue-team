@@ -19,8 +19,8 @@ This project is designed to simulate real-world Red and Blue Team workflows. I b
 
 ## Tools & Services
 
-| Offensive (Red) | Kali Linux, Metasploit, Hydra |
-| Defensive (Blue) | Splunk, Nessus, Windows Event Logs |
+| Offensive (Red): Kali Linux, Metasploit, Hydra |
+| Defensive (Blue): Splunk, Nessus, Windows Event Logs |
 | Infra | AWS EC2, VPC, EBS, CloudWatch |
 | Automation | Terraform |
 
