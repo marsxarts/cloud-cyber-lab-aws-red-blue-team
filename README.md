@@ -41,10 +41,12 @@ This project is designed to simulate real-world Red and Blue Team workflows. I b
 
 ## What I learned 
 
--End-to-end infrastructure design using IaaC
--Threat simulation techniques (brute-force, log injection)
--Security event correlation and alerting with Splunk
--Log forwarding from Windows to a centralized SIEM
+
+- End-to-end infrastructure design using IaaC
+- Threat simulation techniques (brute-force, log injection)
+- Security event correlation and alerting with Splunk
+- Log forwarding from Windows to a centralized SIEM
+
 
 
 
