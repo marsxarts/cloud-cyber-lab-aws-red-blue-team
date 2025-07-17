@@ -34,7 +34,7 @@ This project is designed to simulate real-world Red and Blue Team workflows. I b
 
 ## Diagrams
 
-
+![image alt](https://github.com/marsxarts/cloud-cyber-lab-aws-red-blue-team/blob/main/AWS%20cyber%20homelab%20diagram.png?raw=true)
 
 ## Documentation
 
