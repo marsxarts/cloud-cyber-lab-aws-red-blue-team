@@ -39,6 +39,7 @@ This project is designed to simulate real-world Red and Blue Team workflows. I b
 ## Documentation
 
 
+
 ## What I learned 
 
 
@@ -47,6 +48,8 @@ This project is designed to simulate real-world Red and Blue Team workflows. I b
 - Security event correlation and alerting with Splunk
 - Log forwarding from Windows to a centralized SIEM
 
+## Resources 
+https://medium.com/@kelvinslate50/blue-team-monitoring-homelab-aws-3434f4986959
 
 
 
